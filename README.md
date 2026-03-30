@@ -35,4 +35,5 @@ ComplyAI allows banks to:
 
 ## 👥 Team
 
-* Your Team Name
+* COMPLYAI
+  
